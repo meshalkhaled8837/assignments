@@ -1,0 +1,28 @@
+body {
+  background-color: #d5e1ef;
+}
+div {
+  padding: 15px;
+  margin: 150px auto;
+  width: 290px;
+  height: auto;
+  border-radius: 1rem;
+  background-color: #ffffff;
+  position: relative;
+}
+.QRcode {
+  border-radius: 1rem;
+  width: 290px;
+  height: auto;
+}
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.4rem;
+  text-align: center;
+}
+p {
+  font-family: "Ubuntu", sans-serif;
+  color: #a3a5b1;
+  text-align: center;
+  padding: 10px;
+}
